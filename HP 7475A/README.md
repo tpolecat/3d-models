@@ -1,5 +1,7 @@
 # Models for HP 7475A
 
+See my [restoration thread](https://mastodon.social/@tpolecat/114168401629103374) for photos of some of these models.
+
 I printed all of these with PLA and standard 0.20mm settings and they seem to work fine.
 
 - **Cover Tab** is a replacement for a broken-off tab on the transluscent cover. It needs to be superglued into place.
